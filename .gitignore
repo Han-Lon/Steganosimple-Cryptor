@@ -1,0 +1,11 @@
+# Ignore IDE files
+__pycache__/
+.idea/
+
+# Don't add virtual environment files
+venv/
+env/
+v-env/
+
+# Ignore files in the Denj directory
+Denj/*
