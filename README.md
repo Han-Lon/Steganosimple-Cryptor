@@ -1,8 +1,8 @@
-# Cryptor/Steganosimple
-### Cryptor: A program for simple symmetric encryption/decryption of binary data using the Cryptor2 library. Interacted with through CLI commands and tkinter file dialog windows
-&nbsp;
-&nbsp;
+# Steganosimple/Cryptor
 ### Steganosimple: A program for using steganographical methods to hide data inside of image files. Interacted with through the CLI
+&nbsp;
+&nbsp;
+### Cryptor: A program for simple symmetric encryption/decryption of binary data using the Cryptor2 library. Interacted with through CLI commands and tkinter file dialog windows
 &nbsp;
 &nbsp;
 &nbsp;
